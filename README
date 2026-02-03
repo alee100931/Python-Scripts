@@ -1,0 +1,11 @@
+/* INSTRUCTIONS TO RUN CODE */
+Download the Code:
+On the GitHub repository page, click the green <> Code button.
+Select Download ZIP.
+Unzip the downloaded file to a local directory on your computer.
+Install Python:
+Ensure you have Python installed on your system. You can verify this by opening your command prompt or terminal and typing python --version (or python3 --version on some systems).
+If you don't have it, download and install the latest version from the official Python website.
+Install Dependencies (if any):
+Navigate to the unzipped project directory in your terminal or command prompt (using the cd command).
+Many projects include a requirements.txt file listing necessary libraries. If one exists, install them using the command: pip install -r requirements.txt
